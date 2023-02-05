@@ -1,0 +1,61 @@
+* { 
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*font*/
+
+/*block nav projectname*/
+#container-fluide {
+    background-color: #1a2222;
+    color: rgb(255, 255, 255);
+}
+.navbar-header {
+    background-color: rgb(26, 34, 34);
+    text-align: center;
+}
+.navbar-brand {
+    color: rgb(221, 221, 221);
+    font-size: 25px;
+}
+.navbar-brand:hover {
+    color: rgb(221, 221, 221);
+}
+
+/*block helloworld*/
+
+.tagsbox {
+    background-color: rgb(183, 183, 183, 0.742);
+}
+#tagline {
+    text-align: center;
+}
+.lead {/*text in helloworld*/
+    text-align: center;
+}
+/**/
+#placebotton {
+    text-align: center;
+}
+/**/
+
+/*register botton*/
+.botton {
+    color: black;
+    background-color: rgb(175, 175, 175);
+    text-decoration: none;
+    border-style: solid;
+    border-color: rgb(175, 175, 175);
+    border-width: 20px;
+    margin-left:4px;
+    border-radius: 8px;
+
+}
+.botton:hover {
+    color: rgb(198, 198, 198);
+    background-color: rgb(116, 116, 116);
+    text-decoration: none;
+    border-style: solid;
+    border-color: rgb(116, 116, 116);
+    border-width: 20px;
+    margin-left:4px;
+}
+/*register botton*/
